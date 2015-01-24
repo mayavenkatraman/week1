@@ -25,7 +25,7 @@ Design notes and todo stuff for me:
 - click on user face to filter by that 
 - drag and drop face on row to suggest allocation (that user will see their image with alpha and click on it to accept) 
 - slide all the way will delete 
-- 
+
 
 ![Video Walkthrough](https://github.com/mayavenkatraman/Week1/blob/master/week1-take2.gif)
 
