@@ -14,6 +14,8 @@ click on new tasks to get a text box, add multiple tasks , enter seperates items
 click cal to pop cal to the top - click on days to see view
 edits
 the You is not really needed - need to remove from every where
+
+
 ![Video Walkthrough](https://github.com/mayavenkatraman/Week1/blob/master/week1-take2Mon.gif)
 
 
