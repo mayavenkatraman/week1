@@ -1,4 +1,25 @@
 # week1
+
+some changes in mocks : 
+added new task and new team affordances
+fonts and line height adjustments
+note : two clicks on take a nap to the right show grabing an item and two clicks on the left show mark as done
+two cliks on last item show delete
+
+intended interatcions not included: 
+drag image back to team bar to release item assigned to you
+drag image to unassigned task to suggest
+users sees shaded image for suggest task and clicks on image to accept
+click on new tasks to get a text box, add multiple tasks , enter seperates items
+click cal to pop cal to the top - click on days to see view
+edits
+the You is not really needed - need to remove from every where
+![Video Walkthrough](https://github.com/mayavenkatraman/Week1/blob/master/week1-take2Mon.gif)
+
+
+
+
+
 goalmaker app
 
 Assignment 1 for iOS for Designers class - 
